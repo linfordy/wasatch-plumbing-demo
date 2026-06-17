@@ -5,7 +5,6 @@ export function localBusinessSchema() {
     "@context": "https://schema.org",
     "@type": "Plumber",
     name: company.name,
-    image: "/images/logo-circle.png",
     telephone: company.phone,
     address: {
       "@type": "PostalAddress",
@@ -118,7 +117,7 @@ export function blogPostSchema(post: {
       name: company.name,
       logo: {
         "@type": "ImageObject",
-        url: "https://wasatch-plumbing-demo.vercel.app/images/logo-circle.png",
+        url: "https://wasatch-plumbing-demo.vercel.app",
       },
     },
     url: `https://wasatch-plumbing-demo.vercel.app/blog/${post.slug}`,
@@ -169,7 +168,7 @@ export function recentWorkSchema(entry: {
       name: company.name,
       logo: {
         "@type": "ImageObject",
-        url: "https://wasatch-plumbing-demo.vercel.app/images/logo-circle.png",
+        url: "https://wasatch-plumbing-demo.vercel.app",
       },
     },
     mainEntityOfPage: {

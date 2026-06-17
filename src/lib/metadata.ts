@@ -28,7 +28,7 @@ export function createMetadata({
           url: "/images/hero_family_image.jpg",
           width: 1200,
           height: 630,
-          alt: `${company.name} — Family Owned Since 1970`,
+          alt: `${company.name} — Family Owned Since 2018`,
         },
       ],
     },

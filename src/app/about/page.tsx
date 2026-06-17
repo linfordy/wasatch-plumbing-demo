@@ -6,12 +6,12 @@ import { CTASection } from "@/components/cta-section";
 
 export const metadata = createMetadata({
   title: "About Us",
-  description: `Wasatch Plumbing Co. is a three-generation family plumbing business in South Jordan, UT. Founded in 1970, we've completed over ${company.projectsCompleted.toLocaleString()} projects with Utah Plumber License #${company.licenseNumber}.`,
+  description: `Wasatch Plumbing Co. is a three-generation family plumbing business in South Jordan, UT. Founded in 2018, we've completed over ${company.projectsCompleted.toLocaleString()} projects with Utah Plumber License #${company.licenseNumber}.`,
   path: "/about",
 });
 
 const timeline = [
-  { year: "1970", title: "Wasatch Plumbing Founded", description: "The company was founded with a truck, his tools, and a commitment to honest work." },
+  { year: "2018", title: "Wasatch Plumbing Founded", description: "The company was founded with a truck, his tools, and a commitment to honest work." },
   { year: "1990s", title: "Second Generation Joins", description: "The team expanded, expanding service to more Salt Lake Valley communities." },
   { year: "2020s", title: "Justin Takes the Lead", description: "Our Team earns his Utah Plumber License (#WP-2018-1042) and leads the company into its third generation." },
   { year: "Today", title: "1,200+ Projects & Growing", description: "Licensed and insured, one standard. Still family-owned, still treating every home like our own." },

@@ -315,7 +315,7 @@ export function Nav() {
               </div>
               <div className="mt-3 pt-3 border-t border-white/5">
                 <p className="text-xs text-white/40 text-center">
-                  Headquartered in South Jordan — serving all of Salt Lake Valley since 1970
+                  Headquartered in South Jordan — serving all of Salt Lake Valley since 2018
                 </p>
               </div>
             </div>

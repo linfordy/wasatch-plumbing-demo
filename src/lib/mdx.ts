@@ -29,7 +29,7 @@ const postMeta: Record<string, Omit<BlogPost, "slug">> = {
     featuredImage: "/images/PlumbingServiceSouthJordan.png",
   },
   "plumber-in-rockwall-tx": {
-    title: "Plumber in South Jordan, UT -- Licensed Local Plumbing Service Since 1970",
+    title: "Plumber in South Jordan, UT -- Licensed Local Plumbing Service Since 2018",
     date: "2026-05-25",
     excerpt: "Need a licensed plumber in South Jordan, UT? Wasatch Plumbing Co. offers 24/7 service, no overtime fees, and upfront pricing. Licensed Master Plumber. Serving South Jordan since 2018 -- drain cleaning, water heaters, leak detection, emergencies.",
     category: "Local Plumbing Guide",

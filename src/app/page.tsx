@@ -78,7 +78,7 @@ export default function HomePage() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent" />
               <div className="absolute bottom-0 left-0 right-0 p-6 text-center">
-                <div className="text-brand-red text-3xl font-black">EST. 1970</div>
+                <div className="text-brand-red text-3xl font-black">EST. 2018</div>
                 <div className="text-white text-sm font-semibold mt-1">The Founder</div>
                 
               </div>
