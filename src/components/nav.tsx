@@ -93,16 +93,17 @@ export function Nav() {
       }`}
     >
       <div className="max-w-7xl mx-auto flex items-center justify-between">
-        {/* Logo */}
-        <Link href="/" className="flex items-center gap-3" onClick={closeAll}>
-          <Image
-            src="/images/logo-circle.png"
-            alt="Wasatch Plumbing Co."
-            width={45}
-            height={45}
-            className="rounded-full"
-          />
-          <span className="font-extrabold text-lg text-white tracking-wide">
+        {/* Logo — cursive wordmark */}
+        <Link href="/" className="flex items-center" onClick={closeAll}>
+          <span
+            className="text-white"
+            style={{
+              fontFamily: "'Kaushan Script', cursive",
+              fontSize: "2rem",
+              lineHeight: 1,
+              letterSpacing: "0.5px",
+            }}
+          >
             Wasatch Plumbing
           </span>
         </Link>

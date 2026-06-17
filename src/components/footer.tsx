@@ -33,15 +33,16 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mb-10">
           {/* Brand */}
           <div>
-            <div className="flex items-center gap-3 mb-4">
-              <Image
-                src="/images/logo-circle.png"
-                alt="Wasatch Plumbing Co."
-                width={40}
-                height={40}
-                className="rounded-full"
-              />
-              <span className="font-extrabold text-base">
+            <div className="mb-4">
+              <span
+                style={{
+                  fontFamily: "'Kaushan Script', cursive",
+                  fontSize: "1.75rem",
+                  lineHeight: 1,
+                  color: "white",
+                  letterSpacing: "0.5px",
+                }}
+              >
                 Wasatch Plumbing
               </span>
             </div>

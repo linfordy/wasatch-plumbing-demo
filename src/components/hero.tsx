@@ -4,7 +4,6 @@ import { useScroll, useTransform, motion } from "framer-motion";
 import Image from "next/image";
 import { company } from "@/data/company";
 import { StatsBar } from "./stats-bar";
-import { PhoneVideo } from "./phone-video";
 
 export function Hero() {
   const { scrollY } = useScroll();
@@ -34,9 +33,9 @@ export function Hero() {
 
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-6 lg:px-10 min-h-screen flex flex-col justify-center pt-24 pb-32">
-        <div className="flex items-center gap-12 lg:gap-16">
-          {/* Left: Text content */}
-          <div className="flex-1">
+        <div className="flex items-center">
+          {/* Text content */}
+          <div className="flex-1 max-w-3xl">
             <motion.div
               initial={{ opacity: 0, x: -40 }}
               animate={{ opacity: 1, x: 0 }}
@@ -45,7 +44,7 @@ export function Hero() {
             >
               <div className="w-10 h-0.5 bg-brand-red" />
               <span className="text-brand-red text-xs tracking-[4px] font-semibold">
-                FAMILY OWNED &middot; EST. 1970 &middot; ROCKWALL, TX
+                FAMILY OWNED &middot; EST. 2018 &middot; SOUTH JORDAN, UT
               </span>
             </motion.div>
 
@@ -91,10 +90,6 @@ export function Hero() {
             </motion.div>
           </div>
 
-          {/* Right: Phone video */}
-          <div className="hidden lg:block flex-shrink-0">
-            <PhoneVideo />
-          </div>
         </div>
       </div>
 
