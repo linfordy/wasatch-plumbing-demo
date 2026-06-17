@@ -1,4 +1,5 @@
 import { Hero } from "@/components/hero";
+import { WorkMapCTA } from "@/components/work-map-cta";
 import { SectionHeader } from "@/components/section-header";
 import { ServiceCard } from "@/components/service-card";
 import { ReviewsCarousel } from "@/components/reviews-carousel";
@@ -20,6 +21,9 @@ export default function HomePage() {
   return (
     <>
       <Hero />
+
+      {/* Work Map CTA — links to /recent-work/map */}
+      <WorkMapCTA />
 
       {/* Services Section */}
       <section className="py-24 px-6 lg:px-10 max-w-7xl mx-auto">
