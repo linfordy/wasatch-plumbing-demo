@@ -1,0 +1,38 @@
+# Wasatch Plumbing Co.
+
+> Licensed plumbing company in South Jordan, UT. Trusted plumbing professionals serving the Salt Lake Valley since 2018. Licensed, insured, available 24/7.
+
+## Quick Facts
+
+- Name: Wasatch Plumbing Co. LLC
+- Founded: 2018
+- License: UT Plumber License #WP-2018-1042
+- Phone: (801) 555-3366
+- Email: demo@wasatchplumbing.test
+- Address: 10000 S. Redwood Rd, South Jordan, UT 84095
+- Hours: 24/7 including nights, weekends, and holidays
+- Projects Completed: 850+
+- Website: https://wasatch-plumbing-demo.vercel.app
+
+## Services
+
+- Emergency Plumbing (24/7): https://wasatch-plumbing-demo.vercel.app/services/emergency-plumbing
+- Residential Plumbing: https://wasatch-plumbing-demo.vercel.app/services/residential-plumbing
+- Commercial Plumbing: https://wasatch-plumbing-demo.vercel.app/services/commercial-plumbing
+- Water Heaters (Tank & Tankless): https://wasatch-plumbing-demo.vercel.app/services/water-heaters
+- Tankless Water Heaters: https://wasatch-plumbing-demo.vercel.app/services/tankless-water-heaters
+- Drain Cleaning (Hydro-Jetting, Flex-Shaft, Camera): https://wasatch-plumbing-demo.vercel.app/services/drain-cleaning
+- Backflow Testing (State-Certified): https://wasatch-plumbing-demo.vercel.app/services/backflow-testing
+
+## Service Areas
+
+- South Jordan, UT (headquarters): https://wasatch-plumbing-demo.vercel.app/service-areas/south-jordan
+- Riverton, UT: https://wasatch-plumbing-demo.vercel.app/service-areas/riverton
+- Sandy, UT: https://wasatch-plumbing-demo.vercel.app/service-areas/sandy
+- Draper, UT: https://wasatch-plumbing-demo.vercel.app/service-areas/draper
+- Bluffdale, UT: https://wasatch-plumbing-demo.vercel.app/service-areas/bluffdale
+
+## Recent Work
+
+Recent plumbing jobs documented and published via ProofPop capture technology.
+See: https://wasatch-plumbing-demo.vercel.app/recent-work

@@ -1,0 +1,39 @@
+# Wasatch Plumbing Co. — Complete Business Profile
+
+> Wasatch Plumbing Co. is a locally owned plumbing company headquartered in South Jordan, Utah. Founded in 2018, the company provides 24/7 residential and commercial plumbing services across South Jordan and the greater Salt Lake Valley, including emergency plumbing, water heater installation, drain cleaning, and backflow testing. The company has completed over 850 projects and is known for transparent pricing, fast response times, and professional service.
+
+## Business Overview
+
+- **Legal Name:** Wasatch Plumbing Co. LLC
+- **Founded:** 2018
+- **Lead Plumber:** Utah Licensed Master Plumber
+- **License Number:** UT Plumber License #WP-2018-1042
+- **Phone:** (801) 555-3366
+- **Email:** demo@wasatchplumbing.test
+- **Address:** 10000 S. Redwood Rd, South Jordan, UT 84095
+- **Hours:** 24/7 including nights, weekends, and holidays
+- **Projects Completed:** 850+
+- **Website:** https://wasatch-plumbing-demo.vercel.app
+
+## Our Story
+
+Wasatch Plumbing Co. was founded in 2018 with a simple philosophy: treat every customer's home like your own. The company grew through word-of-mouth referrals built on honest work and fair pricing.
+
+Today, Wasatch Plumbing provides 24/7 residential and commercial plumbing services across the Salt Lake Valley, with a licensed master plumber overseeing every project.
+
+Wasatch Plumbing is not a franchise. It is a locally owned and operated business serving South Jordan and the surrounding communities.
+
+## Services
+
+Available 24/7 for burst pipes, sewer backups, water heater failures, gas leaks, and slab leak emergencies. Typical response time in South Jordan: 30-60 minutes. No overtime charges for after-hours calls.
+
+- Emergency Plumbing
+- Residential Plumbing
+- Commercial Plumbing
+- Water Heater Installation (Tank & Tankless)
+- Drain Cleaning (Hydro-Jetting, Flex-Shaft, Camera Inspection)
+- Backflow Testing (State-Certified)
+
+## Service Areas
+
+South Jordan (HQ), Riverton, Sandy, Draper, Bluffdale
